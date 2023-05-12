@@ -1,0 +1,8 @@
+
+----------------------------------------
+Fri May 12 18:46:04 2023
+ RESTORANT FİŞİ
+ İsim/Soyisim: berat
+ ToplamFiyat: 50
+ ÖdemeTürü: kart
+ margarita	50	
